@@ -6,7 +6,7 @@ I'm a motivated finance professional with strong market analysis, who's recently
 ---
 
 ### 🔨 What I'm Working On:
-- **JavaScript & React Developmen**: Still early in my journey, but I’m already building dynamic web applications, with a drive to constantly improve.
+- **JavaScript & React Development**: Still early in my journey, but I’m already building dynamic web applications, with a drive to constantly improve.
 - **Learning by Doing**: Experimenting with new frameworks and best practices to build my expertise.
 
 ---
