@@ -1,7 +1,7 @@
 ## Hi there, I`m Plamen 👋
 
 ### 🚀 Aspiring JavaScript Developer
-I'm a motivated finance professional with strong market analysis, who's recently transitioned from trading to coding. Recently completing Telerik Academy’s JavaScript track, I’ve spent the last 6 months diving into Javascript and web development and now eager to apply problem-solving and programming skills in a Junior Developer role.
+I'm a motivated finance professional with strong market analysis, who's transitioned from trading to coding. Recently completing Telerik Academy’s JavaScript track, I’ve spent the last 6 months diving into Javascript and web development and now eager to apply problem-solving and programming skills in a Junior Developer role.
 
 ---
 
