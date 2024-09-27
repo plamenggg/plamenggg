@@ -6,8 +6,8 @@ I'm a motivated finance professional with strong market analysis, who's transiti
 ---
 
 ### 🔨 What I'm Working On:
-- **JavaScript & React Development**: Still early in my journey, but I’m already building dynamic web applications, with a drive to constantly improve.
-- **Learning by Doing**: Experimenting with new frameworks and best practices to build my expertise.
+- **JavaScript & React Development**: Currently deepening my skills by working on various projects that leverage React for dynamic web applications. I’m continuously learning and refining my understanding of JavaScript concepts to enhance my coding efficiency and project scalability.
+- **Continuous Learning**: I am actively taking courses and tutorials to stay up-to-date with the latest best practices and frameworks in web development, particularly focusing on mastering JavaScript and front-end technologies.
 
 ---
 
